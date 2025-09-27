@@ -1,4 +1,38 @@
-# Getting Started with Create React App
+# AgroSense AI – Smart Farming Front-End
+
+A React + Tailwind CSS interface that delivers real-time soil, weather and market insights to farmers. Clone the repo, install the dependencies and you’re ready to hack on it locally.
+
+---
+
+## Quick Start
+
+1. **Clone**
+   ```bash
+   git clone https://github.com/Jeffrin2005/Open-Source-Project.git
+   cd Open-Source-Project/sih-project
+   ```
+2. **Install packages** (Node >= 18 recommended)
+   ```bash
+   npm install          # or: yarn install
+   ```
+3. **Run the dev server**
+   ```bash
+   npm start            # starts CRA on http://localhost:3000
+   ```
+4. **Build for production**
+   ```bash
+   npm run build        # outputs static files to /build
+   ```
+
+---
+
+### Tech Stack
+- React 18 (Create-React-App)
+- Tailwind CSS 3 (JIT)
+- React Icons
+
+---
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
