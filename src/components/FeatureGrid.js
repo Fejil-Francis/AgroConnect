@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaSeedling, FaCloudSun, FaChartLine, FaVirus, FaLanguage, FaRecycle } from 'react-icons/fa';
+import { FaSeedling, FaCloudSun, FaChartLine, FaVirus, FaLanguage, FaRecycle,FaTools,FaUserFriends } from 'react-icons/fa';
 import FeatureCard from './FeatureCard';
 
 const features = [
@@ -27,6 +27,17 @@ const features = [
     title: 'Multilingual Support',
     icon: <FaLanguage />,
     description: 'Chat, speak, or snap a photo in multiple Indian languages — our AI understands them all.'
+  },
+  {
+    title: 'Equipments',
+    icon: <FaTools/>,
+    description: 'Easily manage and share farming equipment through the platform.'
+  },
+ 
+   {
+    title: 'Labours',
+    icon: <FaUserFriends/>,
+    description: 'Connect with skilled farm laborers when you need them most.'
   },
   {
     title: 'Sustainability Scoring',
