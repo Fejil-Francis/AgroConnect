@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# AgroSense AI – Smart Farming Front-End
+
+A React + Tailwind CSS interface that delivers real-time soil, weather and market insights to farmers. Clone the repo, install the dependencies and you’re ready to hack on it locally.
+
+---
+
+## Quick Start
+
+1. **Clone**
+   ```bash
+   git clone https://github.com/Jeffrin2005/Open-Source-Project.git
+   cd Open-Source-Project/sih-project
+   ```
+2. **Install packages** (Node >= 18 recommended)
+   ```bash
+   npm install          # or: yarn install
+   ```
+3. **Run the dev server**
+   ```bash
+   npm start            # starts CRA on http://localhost:3000
+   ```
+4. **Build for production**
+   ```bash
+   npm run build        # outputs static files to /build
+   ```
+
+---
+
+### Tech Stack
+- React 18 (Create-React-App)
+- Tailwind CSS 3 (JIT)
+- React Icons
+
+---
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+
 
 ## Available Scripts
 
 In the project directory, you can run:
 
+
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
+
+
+
+
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+@Justo055 @Fejil-Francis @Jeevanmartin @Dhanush-005
 
-### `npm test`
+1. git clone https://github.com/Jeffrin2005/Open-Source-Project.git
+2. cd Open-Source-Project/sih-project
+3. npm install   
+4. npm start, open the local host
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Dont forgot to create the new branch and make the PR and you will be seeing the preview of the deployment, review your code in the changed file and coderabbit will review it. 
