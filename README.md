@@ -55,7 +55,7 @@ Runs the app in the development mode.\
 
 
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [https://agro-connect-weld.vercel.app/](http://localhost:3000) to view it in your browser.
 
 @Justo055 @Fejil-Francis @Jeevanmartin @Dhanush-005
 
